@@ -8,7 +8,7 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | Main    | Not released       |
-| Alpha   | :x:                |
+| Alpha   | 0.0.4              |
 
 ## Reporting a Vulnerability
 
